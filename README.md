@@ -18,6 +18,7 @@ An [alternatives](#alternatives) list is also included. You’ll know an app has
 - [QuickTime Player](https://support.apple.com/en-us/HT201066#record): screen recorder. (macOS) (native)
 - [Soda Player](https://www.sodaplayer.com/)\*: media player with support for bittorrent playback and downloading subtitles. (macOS / Windows)
 - [Space Radar](https://github.com/zz85/space-radar): disk space visualiser. (macOS / Windows)
+- [Unpaywall](http://unpaywall.org/): find legal, open, and free alternative sources to paywalled research papers. (Extension for Chrome / Firefox)
 - [Vanilla](http://matthewpalmer.net/vanilla/)\*: hide menu bar icons. (macOS)
 - [VOX](https://vox.rocks/mac-music-player): music player. (macOS)
 
