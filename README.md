@@ -8,6 +8,7 @@ An [alternatives](#alternatives) list is also included. You’ll know an app has
 
 ### Suggestions
 
+- [appear.in](https://appear.in/): video chat in the browser without plugins or accounts. (Website)
 - [Caption](https://getcaption.co/): subtitle downloader. (macOS)
 - [Dashlane](https://www.dashlane.com/)\*: password manager. (macOS / Windows)
 - [Drop to GIF](https://github.com/mortenjust/droptogif)\*: convert videos to gifs. (macOS)
