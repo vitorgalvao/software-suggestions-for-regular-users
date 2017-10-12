@@ -13,6 +13,7 @@ An [alternatives](#alternatives) list is also included. You’ll know an app has
 - [Dashlane](https://www.dashlane.com/)\*: password manager. (macOS / Windows)
 - [Drop to GIF](https://github.com/mortenjust/droptogif)\*: convert videos to gifs. (macOS)
 - [Etcher](https://etcher.io/): burn disc images to SD cards and USB drives. (macOS / Windows / Linux)
+- [Gaze](https://letsgaze.com/): watch videos with another person over the web. (Website)
 - [IINA](https://lhc70000.github.io/iina/)\*: media player. (macOS)
 - [Kap](https://getkap.co/)\*: screen recorder. (macOS)
 - [macOS storage manager](https://support.apple.com/en-us/HT206996): disk space visualiser. (macOS) (native)
