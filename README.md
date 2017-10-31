@@ -19,6 +19,7 @@ An [alternatives](#alternatives) list is also included. You’ll know an app has
 - [macOS storage manager](https://support.apple.com/en-us/HT206996): disk space visualiser. (macOS) (native)
 - [QuickTime Player](https://support.apple.com/en-us/HT201066#record): screen recorder. (macOS) (native)
 - [Roger](http://useroger.com/): instant video chat, like a walkie-talkie. (macOS)
+- [Sacar Musak](https://github.com/vitorgalvao/sacar-musak): download video and audio from various websites. (macOS)
 - [Soda Player](https://www.sodaplayer.com/)\*: media player with support for bittorrent playback and downloading subtitles. (macOS / Windows)
 - [Space Radar](https://github.com/zz85/space-radar): disk space visualiser. (macOS / Windows)
 - [Unpaywall](http://unpaywall.org/): find legal, open, and free alternative sources to paywalled research papers. (Extension for Chrome / Firefox)
@@ -32,3 +33,4 @@ An [alternatives](#alternatives) list is also included. You’ll know an app has
 - [gfv](https://github.com/vitorgalvao/tiny-scripts/blob/master/gfv): alternative to Drop to GIF. (macOS / Linux)
 - [mpv](https://mpv.io/): alternative to Soda Player and IINA. (macOS / Windows / Linux)
 - [ScreenFlow](https://www.telestream.net/screenflow/overview.htm): alternative to Kap. (macOS) (paid)
+- [youtube-dl](https://rg3.github.io/youtube-dl/): alternative to Sacar Musak. (macOS / Windows / Linux)
