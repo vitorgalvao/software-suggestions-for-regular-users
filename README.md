@@ -11,9 +11,9 @@ An [alternatives](#alternatives) list is also included. You’ll know an app has
 - [appear.in](https://appear.in/): video chat in the browser without plugins or accounts. (Website)
 - [Caption](https://getcaption.co/): subtitle downloader. (macOS)
 - [Dashlane](https://www.dashlane.com/)\*: password manager. (macOS / Windows)
-- [Drop to GIF](https://github.com/mortenjust/droptogif)\*: convert videos to gifs. (macOS)
 - [Etcher](https://etcher.io/): burn disc images to SD cards and USB drives. (macOS / Windows / Linux)
 - [Gaze](https://letsgaze.com/): watch videos with another person over the web. (Website)
+- [Gifski](https://itunes.apple.com/no/app/gifski/id1351639930) (GUI)\*: convert videos to gifs. (macOS)
 - [IINA](https://lhc70000.github.io/iina/)\*: media player. (macOS)
 - [Kap](https://getkap.co/)\*: screen recorder. (macOS)
 - [macOS storage manager](https://support.apple.com/en-us/HT206996): disk space visualiser. (macOS) (native)
@@ -30,6 +30,7 @@ An [alternatives](#alternatives) list is also included. You’ll know an app has
 
 - [1Password](https://1password.com/): alternative to Dashlane. (macOS / Windows) (paid)
 - [Bartender](https://www.macbartender.com/): alternative to Vanilla. (macos) (paid)
+- [gifski](https://gif.ski/) (CLI): alternative to Gifski (GUI) (macOS / Windows / Linux)
 - [gfv](https://github.com/vitorgalvao/tiny-scripts/blob/master/gfv): alternative to Drop to GIF. (macOS / Linux)
 - [mpv](https://mpv.io/): alternative to Soda Player and IINA. (macOS / Windows / Linux)
 - [ScreenFlow](https://www.telestream.net/screenflow/overview.htm): alternative to Kap. (macOS) (paid)
