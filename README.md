@@ -8,6 +8,7 @@ An [alternatives](#alternatives) list is also included. You’ll know an app has
 
 ### Suggestions
 
+- [Airpass](http://airpass.tiagoalves.me/): overcome time constrained WiFi networks. (macOS)
 - [appear.in](https://appear.in/): video chat in the browser without plugins or accounts. (Website)
 - [Caption](https://getcaption.co/): subtitle downloader. (macOS)
 - [Dashlane](https://www.dashlane.com/)\*: password manager. (macOS / Windows)
