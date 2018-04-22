@@ -32,7 +32,6 @@ An [alternatives](#alternatives) list is also included. You’ll know an app has
 - [1Password](https://1password.com/): alternative to Dashlane. (macOS / Windows) (paid)
 - [Bartender](https://www.macbartender.com/): alternative to Vanilla. (macos) (paid)
 - [gifski](https://gif.ski/) (CLI): alternative to Gifski (GUI) (macOS / Windows / Linux)
-- [gfv](https://github.com/vitorgalvao/tiny-scripts/blob/master/gfv): alternative to Drop to GIF. (macOS / Linux)
 - [mpv](https://mpv.io/): alternative to Soda Player and IINA. (macOS / Windows / Linux)
 - [ScreenFlow](https://www.telestream.net/screenflow/overview.htm): alternative to Kap. (macOS) (paid)
 - [youtube-dl](https://rg3.github.io/youtube-dl/): alternative to Sacar Musak. (macOS / Windows / Linux)
