@@ -19,6 +19,7 @@ An [alternatives](#alternatives) list is also included. You’ll know an app has
 - [Kap](https://getkap.co/)\*: screen recorder. (macOS)
 - [macOS storage manager](https://support.apple.com/en-us/HT206996): disk space visualiser. (macOS) (native)
 - [QuickTime Player](https://support.apple.com/en-us/HT201066#record): screen recorder. (macOS) (native)
+- [Open Access Button](https://openaccessbutton.org/): find legal, open, and free alternative sources to paywalled research papers. (Extension for Chrome)
 - [Roger](http://useroger.com/): instant video chat, like a walkie-talkie. (macOS)
 - [Sacar Musak](https://github.com/vitorgalvao/sacar-musak): download video and audio from various websites. (macOS)
 - [Soda Player](https://www.sodaplayer.com/)\*: media player with support for bittorrent playback and downloading subtitles. (macOS / Windows)
