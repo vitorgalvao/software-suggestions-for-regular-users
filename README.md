@@ -12,6 +12,7 @@ An [alternatives](#alternatives) list is also included. You’ll know an app has
 - [appear.in](https://appear.in/): video chat in the browser without plugins or accounts. (Website)
 - [Caption](https://getcaption.co/): subtitle downloader. (macOS)
 - [Dashlane](https://www.dashlane.com/)\*: password manager. (macOS / Windows)
+- [Dover](https://github.com/Mortennn/Dozer/)\*: hide menu bar icons. (macOS)
 - [Etcher](https://etcher.io/): burn disc images to SD cards and USB drives. (macOS / Windows / Linux)
 - [Gaze](https://letsgaze.com/): watch videos with another person over the web. (Website)
 - [Gifski](https://itunes.apple.com/no/app/gifski/id1351639930) (GUI)\*: convert videos to gifs. (macOS)
@@ -31,8 +32,8 @@ An [alternatives](#alternatives) list is also included. You’ll know an app has
 ### Alternatives
 
 - [1Password](https://1password.com/): alternative to Dashlane. (macOS / Windows) (paid)
-- [Bartender](https://www.macbartender.com/): alternative to Vanilla. (macos) (paid)
+- [Bartender](https://www.macbartender.com/): alternative to Dover and Vanilla. (macos) (paid)
 - [gifski](https://gif.ski/) (CLI): alternative to Gifski (GUI) (macOS / Windows / Linux)
-- [mpv](https://mpv.io/): alternative to Soda Player and IINA. (macOS / Windows / Linux)
+- [mpv](https://mpv.io/): alternative to IINA and Soda Player. (macOS / Windows / Linux)
 - [ScreenFlow](https://www.telestream.net/screenflow/overview.htm): alternative to Kap. (macOS) (paid)
 - [youtube-dl](https://rg3.github.io/youtube-dl/): alternative to Sacar Musak. (macOS / Windows / Linux)
