@@ -16,7 +16,7 @@ An [alternatives](#alternatives) list is also included. You’ll know an app has
 - [Etcher](https://etcher.io/): burn disc images to SD cards and USB drives. (macOS / Windows / Linux)
 - [Gaze](https://letsgaze.com/): watch videos with another person over the web. (Website)
 - [Gifski](https://itunes.apple.com/no/app/gifski/id1351639930) (GUI)\*: convert videos to gifs. (macOS)
-- [IINA](https://lhc70000.github.io/iina/)\*: media player. (macOS)
+- [IINA](https://iina.io/)\*: media player. (macOS)
 - [Kap](https://getkap.co/)\*: screen recorder. (macOS)
 - [macOS storage manager](https://support.apple.com/en-us/HT206996): disk space visualiser. (macOS) (native)
 - [QuickTime Player](https://support.apple.com/en-us/HT201066#record): screen recorder. (macOS) (native)
