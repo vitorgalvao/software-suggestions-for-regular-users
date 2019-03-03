@@ -10,7 +10,7 @@ An [alternatives](#alternatives) list is also included. You’ll know an app has
 
 - [Airpass](http://airpass.tiagoalves.me/): overcome time constrained WiFi networks. (macOS)
 - [appear.in](https://appear.in/): video chat in the browser without plugins or accounts. (Website)
-- [Caption](https://getcaption.co/): subtitle downloader. (macOS)
+- [Caption](https://getcaption.co/): subtitle downloader. (macOS / Windows / Linux)
 - [Dashlane](https://www.dashlane.com/)\*: password manager. (macOS / Windows)
 - [Dozer](https://github.com/Mortennn/Dozer/)\*: hide menu bar icons. (macOS)
 - [Etcher](https://etcher.io/): burn disc images to SD cards and USB drives. (macOS / Windows / Linux)
