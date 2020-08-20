@@ -12,6 +12,7 @@ An [alternatives](#alternatives) list is also included. You’ll know an app has
 - [appear.in](https://appear.in/): video chat in the browser without plugins or accounts. (Website)
 - [Caption](https://getcaption.co/): subtitle downloader. (macOS / Windows / Linux)
 - [Dashlane](https://www.dashlane.com/)\*: password manager. (macOS / Windows)
+- [Deadbolt](https://github.com/alichtman/deadbolt): file encryption and decryption. (macOS / Windows / Linux)
 - [Dozer](https://github.com/Mortennn/Dozer/)\*: hide menu bar icons. (macOS)
 - [Etcher](https://etcher.io/): burn disc images to SD cards and USB drives. (macOS / Windows / Linux)
 - [Gaze](https://letsgaze.com/): watch videos with another person over the web. (Website)
