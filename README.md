@@ -29,6 +29,7 @@ An [alternatives](#alternatives) list is also included. You’ll know an app has
 - [Space Radar](https://github.com/zz85/space-radar): disk space visualiser. (macOS / Windows)
 - [Unpaywall](http://unpaywall.org/): find legal, open, and free alternative sources to paywalled research papers. (Extension for Chrome / Firefox)
 - [Vanilla](http://matthewpalmer.net/vanilla/)\*: hide menu bar icons. (macOS)
+- [ViDL](https://omz-software.com/vidl/)\*: download video from various websites. (macOS)
 - [VOX](https://vox.rocks/mac-music-player): music player. (macOS)
 
 ### Alternatives
@@ -38,4 +39,4 @@ An [alternatives](#alternatives) list is also included. You’ll know an app has
 - [gifski](https://gif.ski/) (CLI): alternative to Gifski (GUI) (macOS / Windows / Linux)
 - [mpv](https://mpv.io/): alternative to IINA and Soda Player. (macOS / Windows / Linux)
 - [ScreenFlow](https://www.telestream.net/screenflow/overview.htm): alternative to Kap. (macOS) (paid)
-- [youtube-dl](https://rg3.github.io/youtube-dl/): alternative to Sacar Musak. (macOS / Windows / Linux)
+- [youtube-dl](https://rg3.github.io/youtube-dl/): alternative to Sacar Musak and ViDL. (macOS / Windows / Linux)
