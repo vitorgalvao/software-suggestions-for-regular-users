@@ -21,6 +21,7 @@ An [alternatives](#alternatives) list is also included. You’ll know an app has
 - [IINA](https://iina.io/)\*: media player. (macOS)
 - [Kap](https://getkap.co/)\*: screen recorder. (macOS)
 - [macOS storage manager](https://support.apple.com/en-us/HT206996): disk space visualiser. (macOS) (native)
+- [Maccy](https://maccy.app): clipboard manager (macOS)
 - [QuickTime Player](https://support.apple.com/en-us/HT201066#record): screen recorder. (macOS) (native)
 - [Open Access Button](https://openaccessbutton.org/): find legal, open, and free alternative sources to paywalled research papers. (Extension for Chrome)
 - [Roger](http://useroger.com/): instant video chat, like a walkie-talkie. (macOS)
