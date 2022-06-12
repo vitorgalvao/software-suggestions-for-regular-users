@@ -9,7 +9,6 @@ An [alternatives](#alternatives) list is also included. You’ll know an app has
 ### Suggestions
 
 - [Airpass](http://airpass.tiagoalves.me/): overcome time constrained WiFi networks. (macOS)
-- [appear.in](https://appear.in/): video chat in the browser without plugins or accounts. (Website)
 - [Caption](https://getcaption.co/): subtitle downloader. (macOS / Windows / Linux)
 - [Dashlane](https://www.dashlane.com/)\*: password manager. (macOS / Windows)
 - [Deadbolt](https://github.com/alichtman/deadbolt): file encryption and decryption. (macOS / Windows / Linux)
@@ -32,6 +31,7 @@ An [alternatives](#alternatives) list is also included. You’ll know an app has
 - [Vanilla](http://matthewpalmer.net/vanilla/)\*: hide menu bar icons. (macOS)
 - [ViDL](https://omz-software.com/vidl/)\*: download video from various websites. (macOS)
 - [VOX](https://vox.rocks/mac-music-player): music player. (macOS)
+- [Whereby](https://whereby.com): video chat in the browser without plugins or accounts. (Website)
 
 ### Alternatives
 
